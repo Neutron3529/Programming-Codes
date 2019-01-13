@@ -1,0 +1,1 @@
+Windows cannot create a .txt file named aux.txt
